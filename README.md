@@ -12,7 +12,7 @@ Important aspects of the generator include:
 
 ## Page Link
 
-<!-- add link -->
+https://ae-andre.github.io/password-generator/
 
 ## Mock up
 
